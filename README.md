@@ -1,2 +1,2 @@
-# EDA-Capillary
+# EDA-Loan Prediction
 Capstone 2
